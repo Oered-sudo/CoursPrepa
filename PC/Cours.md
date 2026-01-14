@@ -1,4 +1,4 @@
-# Exercice 9 : Molécule Diatomique
+ Exercice 9 : Molécule Diatomique
      2
      3 ---
      4
@@ -177,4 +177,3 @@
    157
    158 *   **Conclusion :**
    159     Cette longueur d'onde appartient au domaine de **l'infrarouge**.
-   
